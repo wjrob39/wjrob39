@@ -1,6 +1,5 @@
 
-# Will Robertson - 
-# University of 〽️ichigan '25
+# Will Robertson - 〽️ichigan '25
 Thank you for taking the time to view my projects!
 
 The function of this readme is to give a quick idea of what I've worked on and in what language/with which frameworks.
