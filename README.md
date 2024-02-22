@@ -1,5 +1,6 @@
 
-# Will Robertson - University of 〽️ichigan '25
+# Will Robertson - 
+# University of 〽️ichigan '25
 Thank you for taking the time to view my projects!
 
 The function of this readme is to give a quick idea of what I've worked on and in what language/with which frameworks.
@@ -29,7 +30,7 @@ If you're interested in access, please email me at _wjrob@umich.edu_ and I'll ar
     - Exploited SHA-256 hashing (could have also used MD5/SHA-1) to conduct a simulated attack against a bank API. Utilized string concatenation to append a malicious API command to a hashed URL, while accounting for SHA's integrated padding.
 - **(1.2) - Hash Collision**
     - Python, Command Line
-    - Utilized Marc Steven's fastcoll tool to generate two files with identical MD5 hashes. One file is harmless, and the other executes a malicious payload in Python. The purpose of this was to demonstrate how MD5 hashing should not be relied on. Please note that SHA-1 has similar vulnerabilites, but SHA-1 collisions are more extensive to computer. The first SHA-1 collision was published in 2017 and took 110 GPU-years to compute while another attack, published on Jan. 7, 2020, computed a SHA-1 collision with arbitrary prefixes on a GPU cluster at a cost of about $75,000.
+    - Utilized Marc Steven's fastcoll tool to generate two files with identical MD5 hashes. One file is harmless, and the other executes a malicious payload in Python. The purpose of this was to demonstrate how MD5 hashing should not be relied on. Please note that SHA-1 has similar vulnerabilites, but SHA-1 collisions are more extensive to compute. The first SHA-1 collision was published in 2017 and took 110 GPU-years to compute while another attack, published on Jan. 7, 2020, computed a SHA-1 collision with arbitrary prefixes on a GPU cluster at a cost of about $75,000.
 - **(2.1) - Padding Oracle Attack**
     - Python
     - Implemented a Padding Oracle exploit against a simulated CBC (Cipher-Block Chaining) encryption scheme to decrypt messages _without_ any sort of encryption key. This project involved crafting tailored requests to a web server, utilizing its error responses to gradually reveal the plaintext of an encrypted message. The exploit uses the server's responses to iteratively decrypt and recover the original message content, while being aware of and excluding the MAC and padding. 
