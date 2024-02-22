@@ -51,6 +51,6 @@ If you're interested in access, please email me at _wjrob@umich.edu_ and I'll ar
 ## EECS 281 - Data Structures and Algorithms
 ### Project 1 - Maze Solver
 - C++
-- Employed Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms to navigate through maze configurations (sometimes 100,000s of characters long/wide) to find an optimal solution path, if one exists. Additionally, accounts for up to 26 styles of different that the algorithm is not allowed to pass through unless it visits an associated button first. Allows for flexibility between approaches, offering both BFS and DFS options in the command line, as well as different output modes, defaulting to a map representation of the solution.
+- Employed Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms to navigate through maze configurations (sometimes 100,000s of characters long/wide) to find an optimal solution path, if one exists. Additionally, accounts for up to 26 styles of different doors that the algorithm is not allowed to pass through unless it visits an associated button first. Allows for flexibility between approaches, offering both BFS and DFS options in the command line, as well as different output modes, defaulting to a map representation of the solution.
 ### Last update 2/21/24 - need to include more 281 projects.
 
