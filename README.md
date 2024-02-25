@@ -16,6 +16,10 @@ If you're interested in access, please email me at _wjrob@umich.edu_ and I'll ar
 
 
 
+
+
+
+
 ## EECS 370 - Introduction to Computer Organization
 ### Project 1 - LC-2K ISA Assembler, Simulator, and Multiplier
 - The assembler was written exclusively in C. It takes raw LC-2K assembly and translates it into machine language. The output was a series of 32-bit instructions that account for the LC-2K ISA, an academic and instructional RISC that supports 8 simple operations, with opcodes ranging from 0b000 to 0b111.
